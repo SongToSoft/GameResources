@@ -1,2 +1,2 @@
 # GameResources
-Game Resources
+Some game resources which anyone can use.
