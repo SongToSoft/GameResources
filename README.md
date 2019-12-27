@@ -11,6 +11,9 @@ https://devilsworkshop.itch.io/match-3-free-2d-sprites-game-art-and-ui
 https://assetstore.unity.com/packages/2d/environments/110-candies-for-match-3-game-bonuses-17646
 https://free-game-assets.itch.io/free-match-3-game-assets
 
+### Top Down Shooter
+https://opengameart.org/content/over-head-top-down-art-collection
+
 ### Side Scroller
 https://oco.itch.io/medieval-fantasy-character-pack
 https://ansimuz.itch.io/gothicvania-patreon-collection
