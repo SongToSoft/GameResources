@@ -22,3 +22,8 @@ https://rvros.itch.io/animated-pixel-hero
 ### Isometric
 https://0x72.itch.io/16x16-dungeon-tileset
 https://0x72.itch.io/dungeontileset-ii
+
+### Arcanoid
+https://nesmaps.com/maps/Arkanoid/sprites/ArkanoidSprites.html
+https://www.spriters-resource.com/arcade/arkanoidreturn/
+https://www.spriters-resource.com/nes/arkanoid/
