@@ -30,6 +30,9 @@ https://www.spriters-resource.com/nes/arkanoid/
 
 ### RPG Maker MV
 https://forums.rpgmakerweb.com/index.php?threads/whtdragons-tilesets-addons-fixes-and-more.60504/
+https://www.rpgmakerweb.com/download/additional/other-materials
+https://aekashics.itch.io/aekashics-librarium-librarium-static-batch-megapack
+https://rpgtileset.com/
 
 # 3d
 ### Character
