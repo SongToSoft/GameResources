@@ -28,6 +28,9 @@ https://nesmaps.com/maps/Arkanoid/sprites/ArkanoidSprites.html
 https://www.spriters-resource.com/arcade/arkanoidreturn/
 https://www.spriters-resource.com/nes/arkanoid/
 
+### RPG Maker MV
+https://forums.rpgmakerweb.com/index.php?threads/whtdragons-tilesets-addons-fixes-and-more.60504/
+
 # 3d
 ### Character
 https://gumroad.com/d/64e1e04a974004ff6115282c4ffd6e19
