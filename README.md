@@ -33,6 +33,9 @@ https://forums.rpgmakerweb.com/index.php?threads/whtdragons-tilesets-addons-fixe
 https://www.rpgmakerweb.com/download/additional/other-materials
 https://aekashics.itch.io/aekashics-librarium-librarium-static-batch-megapack
 https://rpgtileset.com/
+https://forums.rpgmakerweb.com/index.php?threads/materials-by-haydeos.47400/
+https://forums.rpgmakerweb.com/index.php?threads/mechasuit-sv-battler.117324/
+https://forums.rpgmakerweb.com/index.php?threads/hiddenones-mv-resource-warehouse.47255/
 
 # 3d
 ### Character
